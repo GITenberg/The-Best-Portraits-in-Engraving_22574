@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1986
     wikipedia: http://en.wikipedia.org/wiki/Charles_Sumner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22574#The-Best-Portraits-in-Engraving
 gutenberg_bookshelf: Art
 gutenberg_issued: '2007-09-11'
 gutenberg_type: Text
